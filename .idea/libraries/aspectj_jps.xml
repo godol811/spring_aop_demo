@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aspectj-jps">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/aspectj/lib/aspectj-jps.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aspectj/lib/aspectj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
